@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>📝 Registration Form</h1>
+  <form id="regForm">
+    <h2>Student Info</h2>
+    <label>Khmer Name</label>
+    <input type="text" name="txt_kName" required />
+
+    <label>English Name</label>
+    <input type="text" name="txt_eName" required />
+
+    <label>Gender</label>
+    <select name="sfComboBox_gender" required>
+      <option value="">Select Gender</option>
+      <option value="Male">Male</option>
+      <option value="Female">Female</option>
+    </select>
+
+    <label>Date of Birth</label>
+    <input type="date" name="sfDateValue_dob" required />
+
+    <label>Student ID</label>
+    <input type="text" name="txt_stuID" required />
+
+    <label>Branch</label>
+    <input type="text" name="sfComboBox_branch" required />
+
+    <label>Student Phone</label>
+    <input type="text" name="txt_student_phone" />
+
+    <label>Previous School</label>
+    <input type="text" name="txt_previous_school" />
+
+    <h2>Parent Info</h2>
+    <label>Father Name</label>
+    <input type="text" name="txt_father_name" />
+
+    <label>Father Phone</label>
+    <input type="text" name="txt_father_phone" />
+
+    <label>Father Job</label>
+    <input type="text" name="txt_father_job" />
+
+    <label>Mother Name</label>
+    <input type="text" name="txt_mother_name" />
+
+    <label>Mother Phone</label>
+    <input type="text" name="txt_mother_phone" />
+
+    <label>Mother Job</label>
+    <input type="text" name="txt_mother_job" />
+
+    <label>Province</label>
+    <input type="text" name="sfComboBox_parent_province" />
+
+    <label>District</label>
+    <input type="text" name="sfComboBox_parent_district" />
+
+    <label>Commune</label>
+    <input type="text" name="sfComboBox_parent_commune" />
+
+    <label>Village</label>
+    <input type="text" name="sfComboBox_parent_village" />
+
+    <label>Email</label>
+    <input type="email" name="f_email" />
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>

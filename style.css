@@ -1,0 +1,38 @@
+body {
+          font-family: Arial, sans-serif;
+          padding: 20px;
+          max-width: 600px;
+          margin: auto;
+        }
+        
+        form h2 {
+          margin-top: 30px;
+        }
+        
+        label {
+          margin-top: 10px;
+          display: block;
+          font-weight: bold;
+        }
+        
+        input, select, textarea, button {
+          display: block;
+          width: 100%;
+          margin-top: 5px;
+          padding: 10px;
+          font-size: 16px;
+          box-sizing: border-box;
+        }
+        
+        button {
+          margin-top: 20px;
+          background-color: #4CAF50;
+          color: white;
+          border: none;
+          cursor: pointer;
+        }
+        
+        button:hover {
+          background-color: #45a049;
+        }
+        
