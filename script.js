@@ -22,14 +22,14 @@ const translations = {
               addressInfo: "Address Information",
     
               // Student Info Labels
-              khmerName: "Khmer Name",
-              englishName: "English Name",
+              khmerName: "Name in Khmer",
+              englishName: "EName in English",
               gender: "Gender",
-              selectGender: "Select your gender",
+              selectGender: "Gender",
               male: "Male",
               female: "Female",
               dob: "Date of Birth",
-              studentPhone: "Student Phone",
+              studentPhone: "Phone number",
               previousSchool: "Previous School",
     
               // Parent Info Labels
@@ -56,8 +56,8 @@ const translations = {
               linkInvalidText: "This registration link has already been used or is invalid. Please contact us if you believe this is an error.",
               
               // Placeholders
-              kNamePlaceholder: "Enter your Khmer name",
-              eNamePlaceholder: "Enter your English name",
+              kNamePlaceholder: "Enter student name",
+              eNamePlaceholder: "Enter student name",
               phonePlaceholder: "Enter phone number",
               schoolPlaceholder: "Enter school name",
               namePlaceholder: "Enter full name",
@@ -95,15 +95,15 @@ const translations = {
               addressInfo: "ព័ត៌មានអាសយដ្ឋាន",
     
               // Student Info Labels
-              khmerName: "ឈ្មោះភាសាខ្មែរ",
-              englishName: "ឈ្មោះ​ភាសាអង់គ្លេស",
+              khmerName: "ឈ្មោះជាភាសាខ្មែរ",
+              englishName: "ឈ្មោះ​ជាភាសាអង់គ្លេស",
               gender: "ភេទ",
-              selectGender: "ជ្រើសរើសភេទ",
+              selectGender: "រើសភេទ",
               male: "ប្រុស",
               female: "ស្រី",
               dob: "ថ្ងៃ​ខែ​ឆ្នាំ​កំណើត",
               studentPhone: "លេខទូរស័ព្ទសិស្ស",
-              previousSchool: "សាលាចាស់",
+              previousSchool: "ជាសិស្សមកពីសាលា",
     
               // Parent Info Labels
               fatherName: "ឈ្មោះឪពុក",
@@ -129,9 +129,9 @@ const translations = {
               linkInvalidText: "តំណភ្ជាប់ចុះឈ្មោះនេះត្រូវបានប្រើប្រាស់រួចហើយ ឬមិនត្រឹមត្រូវ។ សូមទាក់ទងមកយើងខ្ញុំ ប្រសិនបើលោកអ្នកជឿថានេះជាកំហុស។",
               
               // Placeholders
-              kNamePlaceholder: "បញ្ចូលឈ្មោះភាសាខ្មែររបស់អ្នក។",
-              eNamePlaceholder: "បញ្ចូលឈ្មោះភាសាអង់គ្លេសរបស់អ្នក។",
-              phonePlaceholder: "បញ្ចូលលេខទូរស័ព្ទ",
+              kNamePlaceholder: "បញ្ចូលឈ្មោះសិស្សជាភាសាខ្មែររ។",
+              eNamePlaceholder: "បញ្ចូលឈ្មោះសិស្សជាភាសាអង់គ្លេស។",
+              phonePlaceholder: "បញ្ចូលលេខទូរស័ព្ទសិស្ស",
               schoolPlaceholder: "បញ្ចូលឈ្មោះសាលា",
               namePlaceholder: "បញ្ចូលឈ្មោះពេញ",
               jobPlaceholder: "បញ្ចូលមុខរបរ",
