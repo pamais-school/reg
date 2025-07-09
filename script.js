@@ -23,7 +23,7 @@ const translations = {
     
               // Student Info Labels
               khmerName: "Name in Khmer",
-              englishName: "EName in English",
+              englishName: "Name in English",
               gender: "Gender",
               selectGender: "Gender",
               male: "Male",
