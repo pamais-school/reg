@@ -48,7 +48,7 @@ const translations = {
               email: "Email",
     
               // Agreement and Submission
-              agreeToTerms: 'I agree to the <a href="https://telegra.ph/Policy-07-09-6" target="_blank">School Policy</a> and <a href="https://telegra.ph/Policy-07-09-6" target="_blank">Conditions</a>',
+              agreeToTerms: 'I agree to the <a href="https://sites.google.com/view/pamais/home?authuser=1" target="_blank">School Policy</a> and <a href="https://sites.google.com/view/pamais/home?authuser=1="_blank">Conditions</a>',
               submit: "Submit Registration",
     
               // Expired Page
@@ -121,7 +121,7 @@ const translations = {
               email: "អ៊ីមែល",
     
               // Agreement and Submission
-              agreeToTerms: 'ខ្ញុំយល់ព្រមតាម <a href="https://telegra.ph/Policy-07-09-6" target="_blank">គោលការណ៍របស់សាលា</a> និង <a href="https://telegra.ph/Policy-07-09-6" target="_blank">លក្ខខណ្ឌដែលបានចែង</a>',
+              agreeToTerms: 'ខ្ញុំយល់ព្រមតាម <a href="https://sites.google.com/view/pamais/home?authuser=1" target="_blank">គោលការណ៍របស់សាលា</a> និង <a href="https://sites.google.com/view/pamais/home?authuser=1" target="_blank">លក្ខខណ្ឌ</a>',
               submit: "បញ្ជូនការចុះឈ្មោះ",
     
               // Expired Page
